@@ -5,7 +5,7 @@ Howdy! I'm Fernando, a software developer. Diving into code, enjoying some coffe
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=4B32C3" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=4B32C3" alt="C# logo" title="C#" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -46,6 +46,8 @@ Howdy! I'm Fernando, a software developer. Diving into code, enjoying some coffe
 [<img src="https://img.shields.io/badge/SQL%20Server-282C34?logo=microsoft-sql-server&logoColor=CC2927" alt="SQL Server logo" title="SQL Server" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E34F26" alt="Ubuntu logo" title="Ubuntu" height="25" />][tech_tools_anchor]
 &nbsp;
 <a name="learning-next"></a>
 
