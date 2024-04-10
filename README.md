@@ -53,6 +53,8 @@ Howdy! I'm Fernando, a software developer. Diving into code, enjoying some coffe
 
 ## What I am currently learning / improving on
 
+[<img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=e0224f" alt="NestJS logo" title="NestJS" height="25" />][learning_next_anchor]
+&nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
 &nbsp;
