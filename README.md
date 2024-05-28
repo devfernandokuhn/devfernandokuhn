@@ -76,7 +76,7 @@ Howdy! I'm Fernando, a software developer. Diving into code, enjoying some coffe
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/12139447/fernando-kuhn)
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />]()
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/fernandokuhn/)
 
 [tech_tools_anchor]: #bio--
 [learning_now_anchor]: #learning-now
