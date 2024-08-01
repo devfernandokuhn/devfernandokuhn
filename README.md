@@ -63,7 +63,7 @@ Howdy! I'm Fernando, a software developer. Diving into code, enjoying some coffe
 &nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&ogo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="25" />][learning_now_anchor]
 &nbsp;
 
 ## What I am interested in learning at some point
