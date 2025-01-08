@@ -1,4 +1,3 @@
-Fernando Kuhn
 Howdy! I'm Fernando, a software developer. Diving into code, enjoying some coffee, and tackling challenges one commit at a time. Constantly learning, evolving, and sharing knowledge.
 
 🛠 Technologies and Tools
